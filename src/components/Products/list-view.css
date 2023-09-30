@@ -1,0 +1,16 @@
+
+.list-view .list-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    border: 1px solid #ebebeb;
+  }
+  
+  .list-view .list-item .list-item-image img {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+

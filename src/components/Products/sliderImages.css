@@ -1,0 +1,17 @@
+.image-ss .sliderProductImages2 img {
+  margin-top: 10px !important;
+  object-fit: contain;
+  height: 93px;
+  max-width: 100%;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.image-ss .sliderProductImages img {
+    height: 450px;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+
+

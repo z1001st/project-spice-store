@@ -1,0 +1,89 @@
+.slider-home .swiper {
+  height: 100%;
+
+  width: 100%;
+}
+
+.slider-home .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.slider-home .swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 650px;
+  object-fit: cover;
+}
+
+ .swiper-button-prev,
+ .swiper-button-next {
+  width: 14px;
+  height: 14px;
+
+  color: #fff !important ;
+  font-size: 20px;
+  text-align: center;
+  line-height: 30px;
+  cursor: pointer;
+}
+
+ .swiper-pagination-bullet {
+  border-radius: 50%;
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0);
+  -webkit-transition: box-shadow 0.3s ease;
+  transition: box-shadow 0.3s ease;
+  background: white;
+  width: 15px;
+  height: 15px;
+}
+
+.swiper-pagination-bullet:hover {
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 1);
+  border: none;
+  border-radius: 50%;
+  background: transparent;
+}
+
+
+
+/* slider.css */
+
+
+
+.slide-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff !important; 
+}
+
+.slide-content h2 {
+  font-size: 33px; 
+  font-family:'Comic Sans MS', cursive, sans-serif;
+  text-wrap: nowrap;
+  
+}
+
+
+.btn-about-us {
+  display: inline-block;
+  padding: 10px 30px;
+  font-weight: bold;
+  background-color: rgba(0, 163, 218, 0.6);
+  color: #fff !important;
+  font-size: 17px;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease; 
+}
+
+.btn-about-us:hover {
+  color: #fff !important;
+  background-color: #17c0eb ;
+  box-shadow: 0 0 20px #17c0eb; 
+}

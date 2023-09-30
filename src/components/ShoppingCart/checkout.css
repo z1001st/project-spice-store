@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+:root {
+    --primary-color: #7e8e62;
+}
+
+.checkout-page{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.left-page {
+    flex: 2; 
+}
+
+.left-page .page-content{
+    margin-left: 10px;
+    width: 80%;
+}
+  .right-page {
+    flex: 1; 
+  }
+
+.first-last-name {
+    display: flex;
+    justify-content: space-between;
+}
+
+#iFirstName{
+    width: 50%;
+    margin-right: 20px;
+}
+#iLastName{
+    width: 50%;
+}
+
+.form-group{
+    margin-top: 10px;
+}
+
+.selectStategroup {
+    display: flex;
+}
+
+#iShipCity {
+    margin-right: 10px;
+}
+
+#slShipstate {
+    margin-right: 10px;
+}
+
+.cssFullName{
+    display: flex;
+    justify-content: space-between;
+}
+#iBillFirstName{
+    width: 50%;
+    margin-right: 20px;
+}
+#iBillLastName{
+    width: 50%;
+}
+
+#iBillCity {
+    margin-right: 10px;
+}
+
+#slBillState {
+    margin-right: 10px;
+}
+
+.form-check-selectShip {
+    width: 100%;
+    margin: 10px 0px;
+    padding: 10px 5px;
+    border: 1px solid #ced4da !important;
+    border-radius: 5px;
+}
+
+.info-card{
+    width: 100%;
+    /* height: 370px; */
+    border: 1px solid #ced4da !important;
+    border-radius: 5px;
+    padding: 0px 10px;
+}
+
+.month-year-card{
+    margin-top: 10px;
+    display: flex;
+}
+
+#slMonthCard{
+    width: 30%;
+    margin-right: 20px;
+}
+
+#iCvv {
+    margin-top: 10px;
+}
+
+.trustbadge{
+    width: 100%;
+    height: 150px;
+}
+
+.btn-placeorder{
+    margin: 20px 0px;
+    padding: 20px 0px;
+    width: 100%;
+}
+
+.btn-placeorder:hover{
+    opacity: 0.8;
+    background-color: var(--primary-color);
+}
+
+.btn-placeorder-right{
+    margin: 10px 10px;
+}
+.right-content {
+    width: 100%;
+    background-color: #e0e0e0;
+}
+
+.item-info{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+}
+.content-item{
+    flex: 1;
+}
+.content-item p{
+    font-size: 14px;
+    color: #000;
+
+}
+
+.content-item small{
+    color: red;
+}
+
+.item-info img {
+    flex: 1;
+    margin-right: 10px;
+    width: 80px;
+    height: 80px;
+}
