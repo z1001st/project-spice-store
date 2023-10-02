@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/project-spice-store/static/css/main.8ebdeedd.css",
-    "main.js": "/project-spice-store/static/js/main.84c3cc1d.js",
+    "main.css": "/project-spice-store/static/css/main.885fcb7d.css",
+    "main.js": "/project-spice-store/static/js/main.a32c498e.js",
     "static/media/shan-chilli-pickle-1kg.jpg": "/project-spice-store/static/media/shan-chilli-pickle-1kg.b3bb650238fe72be4457.jpg",
     "static/media/trustbanner2.png": "/project-spice-store/static/media/trustbanner2.6a3bad56b7970ab44fa3.png",
+    "static/media/img-48.jpg": "/project-spice-store/static/media/img-48.e03fcd0c15e848012fe1.jpg",
+    "static/media/img-50.jpg": "/project-spice-store/static/media/img-50.733d859dbda0e5636a89.jpg",
+    "static/media/img-51.jpg": "/project-spice-store/static/media/img-51.3f28a71ffc92ac78a9d8.jpg",
+    "static/media/img-49.jpg": "/project-spice-store/static/media/img-49.c28fde11c908ae4e6c0d.jpg",
+    "static/media/img-47.jpg": "/project-spice-store/static/media/img-47.6e9f1801c83e8834e14e.jpg",
+    "static/media/img-52.jpg": "/project-spice-store/static/media/img-52.1c5c9de4ea586574f074.jpg",
     "static/media/logo-start-organic.png": "/project-spice-store/static/media/logo-start-organic.91817e63718e967c75dd.png",
     "index.html": "/project-spice-store/index.html",
-    "main.8ebdeedd.css.map": "/project-spice-store/static/css/main.8ebdeedd.css.map",
-    "main.84c3cc1d.js.map": "/project-spice-store/static/js/main.84c3cc1d.js.map"
+    "main.885fcb7d.css.map": "/project-spice-store/static/css/main.885fcb7d.css.map",
+    "main.a32c498e.js.map": "/project-spice-store/static/js/main.a32c498e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ebdeedd.css",
-    "static/js/main.84c3cc1d.js"
+    "static/css/main.885fcb7d.css",
+    "static/js/main.a32c498e.js"
   ]
 }
