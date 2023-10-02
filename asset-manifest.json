@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/project-spice-store/static/css/main.5f74ed96.css",
+    "main.css": "/project-spice-store/static/css/main.d6d8c5ab.css",
     "main.js": "/project-spice-store/static/js/main.c9c3ee51.js",
     "static/media/shan-chilli-pickle-1kg.jpg": "/project-spice-store/static/media/shan-chilli-pickle-1kg.b3bb650238fe72be4457.jpg",
     "static/media/trustbanner2.png": "/project-spice-store/static/media/trustbanner2.6a3bad56b7970ab44fa3.png",
@@ -12,11 +12,11 @@
     "static/media/img-52.jpg": "/project-spice-store/static/media/img-52.1c5c9de4ea586574f074.jpg",
     "static/media/logo-start-organic.png": "/project-spice-store/static/media/logo-start-organic.91817e63718e967c75dd.png",
     "index.html": "/project-spice-store/index.html",
-    "main.5f74ed96.css.map": "/project-spice-store/static/css/main.5f74ed96.css.map",
+    "main.d6d8c5ab.css.map": "/project-spice-store/static/css/main.d6d8c5ab.css.map",
     "main.c9c3ee51.js.map": "/project-spice-store/static/js/main.c9c3ee51.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f74ed96.css",
+    "static/css/main.d6d8c5ab.css",
     "static/js/main.c9c3ee51.js"
   ]
 }
